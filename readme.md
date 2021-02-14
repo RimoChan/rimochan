@@ -1,8 +1,8 @@
 
+
+<img align="right" src="https://cdn.jsdelivr.net/gh/RimoChan/rimochan-cookbook/外/0.webp" width='380px'>
+
 大家好，我是莉沫酱。因为左边的那个人不在，所以我来介绍一下这里都有什么。
-
-<img align="right" src="https://cdn.jsdelivr.net/gh/RimoChan/rimochan-cookbook/%E5%A4%96/1.webp" width='280px'>
-
 
 + 工程repo: 
     - [【Librian】简明强大的Galgame引擎](https://github.com/RimoChan/Librian)
