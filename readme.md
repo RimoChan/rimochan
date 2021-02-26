@@ -17,6 +17,8 @@
     [![](https://img.shields.io/github/stars/RimoChan/Night-Beam.svg?&label=☆&labelColor=8c8&color=yellow)](https://github.com/RimoChan/Night-Beam/stargazers)
     - [神奇的粒子群图像匹配！](https://github.com/RimoChan/PSO-image-match)
     [![](https://img.shields.io/github/stars/RimoChan/PSO-image-match.svg?&label=☆&labelColor=8c8&color=yellow)](https://github.com/RimoChan/PSO-image-match/stargazers)
+    - [【萝莉图片算法】高损图像压缩算法！？](https://github.com/RimoChan/loliimg)
+    [![](https://img.shields.io/github/stars/RimoChan/loliimg.svg?&label=☆&labelColor=8c8&color=yellow)](https://github.com/RimoChan/loliimg/stargazers)
 
 + 搞笑repo: 
     - [【yinglish】淫语翻译机！](https://github.com/RimoChan/yinglish)
