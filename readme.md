@@ -1,6 +1,6 @@
 
 
-<img align="right" src="https://cdn.jsdelivr.net/gh/RimoChan/rimochan-cookbook/外/0.webp" width='380px'>
+<img align="right" src="https://cdn.jsdelivr.net/gh/RimoChan/rimochan-cookbook/外/0.webp" width='392px'>
 
 大家好，我是莉沫酱。因为左边的那个人不在，所以我来介绍一下这里都有什么。
 
