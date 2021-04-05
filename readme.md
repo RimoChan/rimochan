@@ -1,6 +1,6 @@
 
 
-<img align="right" src="https://cdn.jsdelivr.net/gh/RimoChan/rimochan-cookbook/外/0.webp" width='392px'>
+<img align="right" src="https://cdn.jsdelivr.net/gh/RimoChan/rimochan-cookbook/外/0.webp" width='400px'>
 
 大家好，我是莉沫酱。因为左边的那个人不在，所以我来介绍一下这里都有什么。
 
@@ -15,8 +15,6 @@
     [![](https://img.shields.io/github/stars/RimoChan/Vtuber_Tutorial.svg?&label=☆&labelColor=8c8&color=yellow)](https://github.com/RimoChan/Vtuber_Tutorial/stargazers)
     - [【Night Beam】去除文本马赛克的随机算法！](https://github.com/RimoChan/Night-Beam)
     [![](https://img.shields.io/github/stars/RimoChan/Night-Beam.svg?&label=☆&labelColor=8c8&color=yellow)](https://github.com/RimoChan/Night-Beam/stargazers)
-    - [神奇的粒子群图像匹配！](https://github.com/RimoChan/PSO-image-match)
-    [![](https://img.shields.io/github/stars/RimoChan/PSO-image-match.svg?&label=☆&labelColor=8c8&color=yellow)](https://github.com/RimoChan/PSO-image-match/stargazers)
     - [【萝莉图片算法】高损图像压缩算法！？](https://github.com/RimoChan/loliimg)
     [![](https://img.shields.io/github/stars/RimoChan/loliimg.svg?&label=☆&labelColor=8c8&color=yellow)](https://github.com/RimoChan/loliimg/stargazers)
 
@@ -25,6 +23,8 @@
     [![](https://img.shields.io/github/stars/RimoChan/yinglish.svg?&label=☆&labelColor=8c8&color=yellow)](https://github.com/RimoChan/yinglish/stargazers)
     - [【幼女Code】反和谐超级武器！](https://github.com/RimoChan/unvcode)
     [![](https://img.shields.io/github/stars/RimoChan/unvcode.svg?&label=☆&labelColor=8c8&color=yellow)](https://github.com/RimoChan/unvcode/stargazers)
+    - [【steal piano】GitHub偷情分析工具！](https://github.com/RimoChan/steal_piano)
+    [![](https://img.shields.io/github/stars/RimoChan/steal_piano.svg?&label=☆&labelColor=8c8&color=yellow)](https://github.com/RimoChan/steal_piano/stargazers)
     - [三次元人类屏蔽器！](https://github.com/RimoChan/kill3d)
     [![](https://img.shields.io/github/stars/RimoChan/kill3d.svg?&label=☆&labelColor=8c8&color=yellow)](https://github.com/RimoChan/kill3d/stargazers)
     - [色图网站！](https://github.com/RimoChan/color_site)
