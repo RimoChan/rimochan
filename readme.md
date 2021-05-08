@@ -1,6 +1,6 @@
 
 
-<img align="right" src="https://cdn.jsdelivr.net/gh/RimoChan/rimochan-cookbook/外/0.webp" width='400px'>
+<img align='right' src='https://cdn.jsdelivr.net/gh/RimoChan/rimochan-cookbook/外/0.webp' width='412px'>
 
 大家好，我是莉沫酱，欢迎来到我的个人演唱会。因为左边的那个人去写小说了，所以我来介绍一下这里都有什么。
 
@@ -30,8 +30,10 @@
     - [色图网站！](https://github.com/RimoChan/color_site)
     [![](https://img.shields.io/github/stars/RimoChan/color_site.svg?&label=☆&labelColor=8c8&color=yellow)](https://github.com/RimoChan/color_site/stargazers)
     
-+ 画册:
-    - [莉沫酱小本子！](https://github.com/RimoChan/rimochan-cookbook)
++ 小说和画册:
+    - [【轻小说连载】Librian萝莉会所！](https://github.com/RimoChan/librian-can)
+    [![](https://img.shields.io/github/stars/RimoChan/librian-can.svg?&label=☆&labelColor=8c8&color=yellow)](https://github.com/RimoChan/librian-can/stargazers)
+    - [【画册】莉沫酱小本子！](https://github.com/RimoChan/rimochan-cookbook)
     [![](https://img.shields.io/github/stars/RimoChan/rimochan-cookbook.svg?&label=☆&labelColor=8c8&color=yellow)](https://github.com/RimoChan/rimochan-cookbook/stargazers)
 
 剩下的……感觉不好玩就不推荐了。就这样，88，我回去睡觉了。  
