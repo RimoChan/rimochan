@@ -33,8 +33,8 @@
     - [【steal piano】GitHub偷情分析工具！](https://github.com/RimoChan/steal_piano)
     <a href='https://github.com/RimoChan/steal_piano'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/steal_piano'></img></a>
     [![]()]()
-    - [【cotrace】同事追踪器！](https://github.com/RimoChan/cotrace)
-    <a href='https://github.com/RimoChan/cotrace'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/cotrace'></img></a>
+    - [【不能好好说话】不对劲的拼音缩写翻译工具](https://github.com/RimoChan/bnhhsh)
+    <a href='https://github.com/RimoChan/bnhhsh'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/bnhhsh'></img></a>
     [![]()]()
     - [色图网站！](https://github.com/RimoChan/color_site)
     <a href='https://github.com/RimoChan/color_site'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/color_site'></img></a>
