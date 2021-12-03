@@ -1,6 +1,6 @@
 
 
-<img align='right' src='https://cdn.jsdelivr.net/gh/RimoChan/rimochan-cookbook/外/00.webp' width='407px'>
+<img align='right' src='https://cdn.jsdelivr.net/gh/RimoChan/rimochan-cookbook/外/00.webp' width='410px'>
 
 大家好，我是莉沫酱，欢迎来到我的个人演唱会。因为左边的那个人去写小说了，所以我来介绍一下这里都有什么。
 
@@ -16,7 +16,7 @@
     - [【教程】从零开始的的自制Vtuber](https://github.com/RimoChan/Vtuber_Tutorial)
     <a href='https://github.com/RimoChan/Vtuber_Tutorial'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/Vtuber_Tutorial'></img></a>
     [![]()]()
-    - [【Night Beam】去除文本马赛克的随机算法！](https://github.com/RimoChan/Night-Beam)
+    - [【Night Beam】去除文本马赛克的随机算法](https://github.com/RimoChan/Night-Beam)
     <a href='https://github.com/RimoChan/Night-Beam'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/Night-Beam'></img></a>
     [![]()]()
     - [【萝莉图片算法】高损图像压缩算法！？](https://github.com/RimoChan/loliimg)
@@ -24,6 +24,9 @@
     [![]()]()
 
 + 搞笑repo:
+    - [【您配吗】配你吗](https://github.com/RimoChan/match-you)
+    <a href='https://github.com/RimoChan/match-you'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/match-you'></img></a>
+    [![]()]()
     - [【yinglish】淫语翻译机！](https://github.com/RimoChan/yinglish)
     <a href='https://github.com/RimoChan/yinglish'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/yinglish'></img></a>
     [![]()]()
@@ -32,9 +35,6 @@
     [![]()]()
     - [【steal piano】GitHub偷情分析工具！](https://github.com/RimoChan/steal_piano)
     <a href='https://github.com/RimoChan/steal_piano'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/steal_piano'></img></a>
-    [![]()]()
-    - [【不能好好说话】不对劲的拼音缩写翻译工具](https://github.com/RimoChan/bnhhsh)
-    <a href='https://github.com/RimoChan/bnhhsh'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/bnhhsh'></img></a>
     [![]()]()
     - [色图网站！](https://github.com/RimoChan/color_site)
     <a href='https://github.com/RimoChan/color_site'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/color_site'></img></a>
