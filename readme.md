@@ -8,6 +8,9 @@
     - [【Librian】简明强大的Galgame引擎](https://github.com/RimoChan/Librian)
     <a href='https://github.com/RimoChan/Librian'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/Librian'></img></a>
     [![]()]()
+    - [【sese-engine】新时代的搜索引擎！](https://github.com/RimoChan/sese-engine)
+    <a href='https://github.com/RimoChan/sese-engine'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/sese-engine'></img></a>
+    [![]()]()
     - [【幼盾】个性化图片徽章服务！](https://github.com/RimoChan/unv-shield)
     <a href='https://github.com/RimoChan/unv-shield'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/unv-shield'></img></a>
     [![]()]()
@@ -18,9 +21,6 @@
     [![]()]()
     - [【Night Beam】去除文本马赛克的随机算法](https://github.com/RimoChan/Night-Beam)
     <a href='https://github.com/RimoChan/Night-Beam'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/Night-Beam'></img></a>
-    [![]()]()
-    - [【萝莉图片算法】高损图像压缩算法！？](https://github.com/RimoChan/loliimg)
-    <a href='https://github.com/RimoChan/loliimg'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/loliimg'></img></a>
     [![]()]()
 
 + 搞笑repo:
