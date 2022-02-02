@@ -40,13 +40,9 @@
     <a href='https://github.com/RimoChan/color_site'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/color_site'></img></a>
     [![]()]()
 
-+ 小说和画册:
-    - [【轻小说连载】Librian萝莉会所！](https://github.com/RimoChan/librian-can)
-    <a href='https://github.com/RimoChan/librian-can'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/librian-can'></img></a>
-    [![]()]()
-    - [【画册】莉沫酱小本子！](https://github.com/RimoChan/rimochan-cookbook)
-    <a href='https://github.com/RimoChan/rimochan-cookbook'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/rimochan-cookbook'></img></a>
-    [![]()]()
++ 小说和画册:  
+    萝莉小说和莉沫酱小本子被GitHub屏蔽了！  
+    GitHub太坏了，我要发明UnvHub把GitHub的用户抢走！
 
 剩下的……感觉不好玩就不推荐了。就这样，88，我回去睡觉了。  
 如果你是莉沫酱的粉丝，也可以来 Librian幼女娱乐中心<sub>(<https://t.me/joinchat/2e3CbUZc4fE5YTdl>)</sub> 一起睡觉。
