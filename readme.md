@@ -2,7 +2,7 @@
 
 <img align='right' src='https://cdn.jsdelivr.net/gh/RimoChan/rimochan/00.webp' width='410px'>
 
-大家好，我是莉沫酱，欢迎来到我的个人演唱会。因为左边的那个人去写小说了，所以我来介绍一下这里都有什么。
+大家好，我是莉沫酱，欢迎来到我的个人演唱会。因为黄巍去写小说了，所以我来介绍一下这里都有什么。
 
 + 工程repo:
     - [【Librian】简明强大的Galgame引擎](https://github.com/RimoChan/Librian)
@@ -22,6 +22,9 @@
     - [【Night Beam】去除文本马赛克的随机算法](https://github.com/RimoChan/Night-Beam)
     <a href='https://github.com/RimoChan/Night-Beam'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/Night-Beam'></img></a>
     [![]()]()
+    - [【not translator】不会翻译机](https://github.com/RimoChan/not_translator)
+    <a href='https://github.com/RimoChan/not_translator'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/not_translator'></img></a>
+    [![]()]()
 
 + 搞笑repo:
     - [【您配吗】配你吗](https://github.com/RimoChan/match-you)
@@ -40,9 +43,11 @@
     <a href='https://github.com/RimoChan/color_site'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/color_site'></img></a>
     [![]()]()
 
-+ 小说和画册:  
-    萝莉小说和莉沫酱小本子被GitHub屏蔽了！  
-    GitHub太坏了，我要发明UnvHub把GitHub的用户抢走！
++ 许可证:
+    - [莉沫酱革命协议！](https://github.com/RimoChan/Je-Suis-Le-Deluge)
+    <a href='https://github.com/RimoChan/Je-Suis-Le-Deluge'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/Je-Suis-Le-Deluge'></img></a>
+    [![]()]()
+
 
 剩下的……感觉不好玩就不推荐了。就这样，88，我回去睡觉了。  
 如果你是莉沫酱的粉丝，也可以来 Librian幼女娱乐中心<sub>(<https://t.me/joinchat/2e3CbUZc4fE5YTdl>)</sub> 一起睡觉。
