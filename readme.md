@@ -50,4 +50,4 @@
 
 
 剩下的……感觉不好玩就不推荐了。就这样，88，我回去睡觉了。  
-如果你是莉沫酱的粉丝，也可以来 Librian幼酒ssh喵喵喵喵贴贴再教育探险中💕<sub>(<https://t.me/+0mv0KLEw4TY5Mzdl>)</sub> 一起睡觉。
+如果你是莉沫酱的粉丝，也可以来 Librian幼酒ciallo_ssh喵喵喵喵贴贴再教育探险环合唱可爱SSL晚安爱爱中💕幼翼学校<sub>(<https://t.me/+xd-6jbjoQdA2ZWU9>)</sub> 一起睡觉。
