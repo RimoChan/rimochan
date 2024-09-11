@@ -1,6 +1,6 @@
 
 
-<img align='right' src='https://cdn.jsdelivr.net/gh/RimoChan/rimochan/00.webp' width='410px'>
+<img align='right' src='https://cdn.jsdelivr.net/gh/RimoChan/rimochan/00.gif' width='410px'>
 
 大家好，我是莉沫酱，欢迎来到我的个人演唱会。因为黄巍去写小说了，所以我来介绍一下这里都有什么。
 
