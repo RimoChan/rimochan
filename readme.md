@@ -1,6 +1,6 @@
 
 
-<img align='right' src='https://cdn.jsdelivr.net/gh/RimoChan/rimochan/00.gif' width='410px'>
+<img align='right' src='https://cdn.jsdelivr.net/gh/RimoChan/rimochan/00.webp' width='410px'>
 
 大家好，我是莉沫酱，欢迎来到我的个人演唱会。因为黄巍去写小说了，所以我来介绍一下这里都有什么。
 
@@ -50,4 +50,4 @@
 
 
 剩下的……感觉不好玩就不推荐了。就这样，88，我回去睡觉了。  
-如果你是莉沫酱的粉丝，也可以来 Librian幼酒ciallo_ssh喵喵喵喵贴贴再教育探险环合唱可爱SSL晚安爱爱中💕幼翼学校<sub>(<https://t.me/+QSvPsQMl8Ak4NTg9>)</sub> 一起睡觉。
+如果你是莉沫酱的粉丝，也可以来 Librian幼酒ciallo_ssh喵喵喵喵贴贴再教育探险环合唱可爱SSL晚安爱爱中💕幼翼学校<sub>(<https://t.me/+Rv-5_mkG2OYwYTRl>)</sub> 一起睡觉。
