@@ -19,7 +19,7 @@
     - [【RUM】用跨架构蒸馏代替继续预训练](https://github.com/RimoChan/RUM)
     <a href='https://github.com/RimoChan/RUM'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/RUM'></img></a>
     [![]()]()
-    - [【RUM】基于奖励优化的模型融合算法](https://github.com/RimoChan/RO-Merge)
+    - [【RO-Merge】基于奖励优化的模型融合算法](https://github.com/RimoChan/RO-Merge)
     <a href='https://github.com/RimoChan/RO-Merge'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/RO-Merge'></img></a>
     [![]()]()
 
